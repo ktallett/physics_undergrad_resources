@@ -1,5 +1,7 @@
 ## Semester 2
 
+**Textbooks** - OpenStax University Physics 1
+
 **Week 1** - Simple Harmonic Motion, Circular motion, Energy in SHM
 
 **Week 2** - The simple pendulum and Wave motion

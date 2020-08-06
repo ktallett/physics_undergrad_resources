@@ -1,24 +1,26 @@
 ## Semester 1
 
-** Week 1** - Vectors meaning
+**Textbooks** -  OpenStax Calculus 3
 
-** Week 2** - Vectors addition and subtraction
+**Week 1** - Vectors meaning
 
-** Week 3** - Scalar product of two vectors
+**Week 2** - Vectors addition and subtraction
 
-** Week 4** - Scalar product of two vectors
+**Week 3** - Scalar product of two vectors
 
-** Week 5** - Vector product of two vectors
+**Week 4** - Scalar product of two vectors
 
-** Week 6** - Vector product of two vectors
+**Week 5** - Vector product of two vectors
 
-** Week 7** - Equations of lines and planes
+**Week 6** - Vector product of two vectors
 
-** Week 8** - Intersections
+**Week 7** - Equations of lines and planes
 
-** Week 9** - Partial derivatives
+**Week 8** - Intersections
 
-** Week 10** - Waves, Divergence, gradient, and curl
+**Week 9** - Partial derivatives
 
-** Week 11** - Recap
+**Week 10** - Waves, Divergence, gradient, and curl
+
+**Week 11** - Recap
 

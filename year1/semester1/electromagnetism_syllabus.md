@@ -1,20 +1,22 @@
 ## Semester 1
 
-** Week 1** - Electrostatics and charges, Coulomb's law
+**Textbooks** - OpenStax University Physics 2
 
-** Week 2** - Electric fields
+**Week 1** - Electrostatics and charges, Coulomb's law
 
-** Week 3** - Electric flux and Gauss' law,
+**Week 2** - Electric fields
 
-** Week 4** - Electric potential, Motion of charges
+**Week 3** - Electric flux and Gauss' law,
 
-** Week 5** - Capacitance and Dielectric
+**Week 4** - Electric potential, Motion of charges
 
-** Week 6** - Currents and Resistance
+**Week 5** - Capacitance and Dielectric
 
-** Week 7** - Kirchoff's rules and RC circuits, Magnetic fields, the hall effect and the lorentz equation
+**Week 6** - Currents and Resistance
 
-** Week 8** - Magnetic fields, Cyclotron and synchrotron, Current loop, Solenoid and Toroid.
+**Week 7** - Kirchoff's rules and RC circuits, Magnetic fields, the hall effect and the lorentz equation
 
-** Week 9** - Recap week
+**Week 8** - Magnetic fields, Cyclotron and synchrotron, Current loop, Solenoid and Toroid.
+
+**Week 9** - Recap week
 

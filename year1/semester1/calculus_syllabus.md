@@ -1,5 +1,7 @@
 ## Semester 1
 
+**Textbooks** - OpenStax Calculus 1 and 2
+
 **Week 1** - Exponential and Logarithmic functions
 
 **Week 2** - Hyperbolic and trignometric functions
@@ -10,7 +12,7 @@
 
 **Week 5** - Maclaurin and Taylor Expansions
 
-**Week 6** - L' Hopitals Rule
+**Week 6** - L'Hopitals Rule
 
 **Week 7** - Anti derivatives
 
