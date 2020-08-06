@@ -1,3 +1,3 @@
 Here are the textbooks from OpenStax. These replace Halliday's Principles of Physics and  Jordan's Mathematical Techniques. They are usually expected to be used for the first 2 years of the undergraduate degree and these can be replaced fully by what OpenStax has developed. These textbooks also provide a large selection of problems to give you plenty of practice incase the questions set by the university are not enough for you to grasp the concepts. 
 
-I have included the pdf's for download but should you wish to make sure you are using the most up to date copy then head over to their website and download it for yourself. 
+I have included the pdf's for download but should you wish to make sure you are using the most up to date copy, then head over to their website and download it for yourself. 
